@@ -1,4 +1,4 @@
-<div style = "text-align: center;">
+<div class="d-flex justify-content-center">
     LẬP TRÌNH THIẾT BỊ DI ĐỘNG
 </div>
 Các bài tập thực hành và bài tập được lưu tại đây
