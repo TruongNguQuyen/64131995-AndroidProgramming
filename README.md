@@ -7,7 +7,7 @@
 ###
 
 <div>
-    <img src="https://i.pinimg.com/originals/a2/8f/77/a28f772a32ee02e57cba285606fb4d6e.gif"></img>
+    <img src="https://i.pinimg.com/originals/dc/9e/df/dc9edff5a2c60cbb7b082367547c4757.gif"></img>
 </div>
 1. HELLO_ANDROID --> In ra màn hình XIN CHAO ANDROID
 2. VD1 --> In ra màn hình 3 nút nhấn
