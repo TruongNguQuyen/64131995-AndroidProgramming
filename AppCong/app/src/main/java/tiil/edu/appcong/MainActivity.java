@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
         // Lấy dữ liệu về ở điều khiển số B
         String strB = editTextSoB.getText().toString();
 
-        // Chuyển dữ lieu sang dang so
+        // Chuyển dữ liệu sang dạng số
         int so_A = Integer.parseInt(strA); // 2
         int so_B = Integer.parseInt(strB); // 3
 
