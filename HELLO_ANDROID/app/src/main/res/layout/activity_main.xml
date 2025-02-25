@@ -5,17 +5,21 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:rotationX="43"
+    android:rotationX="0"
     tools:context=".MainActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="XIN CHAO ANDROID"
-        android:textColorLink="#FF5722"
+        android:textColor="#009688"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:gravity="center_horizontal"
+        />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

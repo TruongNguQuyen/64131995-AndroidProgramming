@@ -16,8 +16,8 @@
 
 ###
 
-| NAME                               | CONTENT                               | LINK |
-| ---------------------------------- | ------------------------------------- | ---- |
-| <h4>EX1:<a href>EX1_HELLO</a></h4> | In ra màn hình dòng chữ HELLO ANDROID | fgf  |
-| <h4>EX1:<a href>EX1_HELLO</a></h4> | In ra màn hình dòng chữ HELLO ANDROID | fgf  |
-| <h4>EX1:<a href>EX1_HELLO</a></h4> | In ra màn hình dòng chữ HELLO ANDROID | fgf  |
+| NAME                                  | CONTENT                                  | IMAGE |
+| ------------------------------------- | ---------------------------------------- | ----- |
+| <h4>EX1:<a href="">EX1_HELLO</a></h4> | In ra màn hình dòng chữ XIN CHÀO ANDROID |       |
+| <h4>EX1:<a href="">EX1_HELLO</a></h4> | In ra màn hình dòng chữ HELLO ANDROID    | fgf   |
+| <h4>EX1:<a href="">EX1_HELLO</a></h4> | In ra màn hình dòng chữ HELLO ANDROID    | fgf   |
