@@ -16,10 +16,8 @@
 
 ###
 
-<div align="center">
-| NAME                                  | CONTENT                                  | IMAGE                                                                                                                                                     |
-| ------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <h4>EX1:<a href="">EX1_HELLO</a></h4> | In ra màn hình dòng chữ XIN CHÀO ANDROID | <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/HELLO_ANDROID/app/src/main/Screenshot_20250225_111514.png"> |
-| <h4>EX1:<a href="">EX1_HELLO</a></h4> | In ra màn hình dòng chữ HELLO ANDROID    | fgf                                                                                                                                                       |
-| <h4>EX1:<a href="">EX1_HELLO</a></h4> | In ra màn hình dòng chữ HELLO ANDROID    | fgf                                                                                                                                                       |
-</div>
+| NAME                                                                                                                                    | CONTENT                                  | IMAGE                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h4>EX1:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/HELLO_ANDROID/app/src/main">EX1_HELLO</a></h4> | In ra màn hình dòng chữ XIN CHÀO ANDROID | <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/HELLO_ANDROID/app/src/main/Screenshot_20250225_111514.png"> |
+| <h4>EX1:<a href="">EX1_HELLO</a></h4>                                                                                                   | In ra màn hình dòng chữ HELLO ANDROID    |                                                                                                                                                           |
+| <h4>EX1:<a href="">EX1_HELLO</a></h4>                                                                                                   | In ra màn hình dòng chữ HELLO ANDROID    |                                                                                                                                                           |
