@@ -6,7 +6,7 @@
 
 ###
 
-<div>
+<div align="center">
     <img height="400" src="https://i.pinimg.com/originals/dc/9e/df/dc9edff5a2c60cbb7b082367547c4757.gif"></img>
 </div>
 1. HELLO_ANDROID --> In ra màn hình XIN CHAO ANDROID
