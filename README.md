@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">SOURCES CODE BÀI TẬP THỰC HÀNH</h2>
+<h2 align="left">SOURCES CODE CÁC BÀI TẬP THỰC HÀNH</h2>
 
 ###
 
@@ -24,3 +24,10 @@
 | <h4>EX4:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/AppCongTruNhanChia/app/src/main">EX4_AppCongTruNhanChia</a></h4>               | Tính kết quả cộng trừ nhân chia của 2 số a và b | <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/AppCongTruNhanChia/app/src/main/Screenshot_20250225_231029.png">        |
 | <h4>EX5:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/AppCongTruNhanChia_AnDanh/app/src/main">EX5_AppCongTruNhanChia_AnDanh</a></h4> | Tính kết quả cộng trừ nhân chia của 2 số a và b | <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/AppCongTruNhanChia_AnDanh/app/src/main/Screenshot_20250226_085101.png"> |
 | <h4>EX5:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/AppCongTruNhanChia_Var/app/src/main">EX5_AppCongTruNhanChia_Var</a></h4>       | Tính kết quả cộng trừ nhân chia của 2 số a và b | <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/AppCongTruNhanChia_Var/app/src/main/Screenshot_20250226_115557.png">    |
+
+<h2 align="left">SOURCES CODE CÁC BÀI TẬP VÍ DỤ</h2>
+
+###
+
+<h4>VD1:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/VD_BMI/app/src/main">VD_BMI</a></h4>
+<img height="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_BMI/app/src/main/Screenshot_20250226_231847.png">
