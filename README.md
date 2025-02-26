@@ -30,4 +30,4 @@
 ###
 
 <h4>VD1:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/VD_BMI/app/src/main">VD_BMI</a></h4>
-<img height="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_BMI/app/src/main/Screenshot_20250226_231847.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_BMI/app/src/main/Screenshot_20250226_231847.png">
