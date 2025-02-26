@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="BMI Calculator"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:background="#3F51B5"
+            android:textColor="@color/white"
+            android:gravity="center"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Weight"
+            android:textSize="25dp"
+            android:layout_marginBottom="15dp"
+            android:textStyle="bold"
+            />
+        <EditText
+            android:id="@+id/edtWeight"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:gravity="center"
+            android:hint="Nhập cân nặng của bạn (kg)"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Height"
+            android:textSize="25dp"
+            android:layout_marginBottom="15dp"
+            android:textStyle="bold"
+            />
+        <EditText
+            android:id="@+id/edtHeight"
+            android:layout_width="250dp"
+            android:layout_height="50dp"
+            android:hint="Nhập chiều cao của bạn (cm)"
+            android:gravity="center"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        >
+        <Button
+            android:id="@+id/btnCalBMI"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:text="CALCULATE BMI"
+            android:background="#3F51B5"
+            android:layout_marginBottom="20dp"
+            android:textSize="20dp"
+            >
+        </Button>
+        <EditText
+            android:id="@+id/edtResultBMI"
+            android:layout_width="200dp"
+            android:layout_height="60dp"
+            android:hint="Kết quả BMI của bạn"
+            android:enabled="false"
+            android:gravity="center"
+            />
+
+    </LinearLayout>
+</LinearLayout>
