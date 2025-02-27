@@ -31,3 +31,7 @@
 
 <h4>VD1:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/VD_BMI/app/src/main">VD_BMI</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_BMI/app/src/main/Screenshot_20250226_231847.png">
+
+<h4>VD2:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/VD_intent/app/src/main">VD_intent</a></h4>
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent/app/src/main/Screenshot_20250227_080212.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent/app/src/main/Screenshot_20250227_080229.png">
