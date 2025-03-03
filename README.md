@@ -42,5 +42,5 @@
 
 <div>
 <h4>VD3:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/VD_ListViewCacQuocGia/app/src/main">VD_ListViewCacQuocGia</a></h4>
-<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent/app/src/main/Screenshot_20250303_231922.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_ListViewCacQuocGia/app/src/main/Screenshot_20250303_231922.png">
 </div>
