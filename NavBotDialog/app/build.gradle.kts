@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "tiil.edu.vd_intent2"
+    namespace = "tnq.tiil.edu.navbotdialog"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "tiil.edu.vd_intent2"
+        applicationId = "tnq.tiil.edu.navbotdialog"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

@@ -1,12 +1,10 @@
 package tiil.edu.vd_intent2;
 
-import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,17 +12,17 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class MainActivity extends AppCompatActivity {
-    Button btnlogin, btnregister;
+public class Welcome extends AppCompatActivity {
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_main);
-        ImageView imageView = findViewById(R.id.imgviewcg);
+        setContentView(R.layout.activity_welcome);
+        ImageView imageView = findViewById(R.id.imgviewckg);
 
         // Tải và xử lý bitmap
-        Bitmap originalBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.cutegirlwelcome);
+        Bitmap originalBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.girlkoreancutestickers);
         int width = originalBitmap.getWidth();
         int height = originalBitmap.getHeight();
         int maxSize = 1024;
@@ -40,23 +38,9 @@ public class MainActivity extends AppCompatActivity {
         } else {
             imageView.setImageBitmap(originalBitmap);
         }
-        // Tìm id cho 2 btn login và register
-        btnlogin = findViewById(R.id.btnlogin);
-        btnregister = findViewById(R.id.btnregister);
-
-        // Khởi tạo bộ lắng nghe chuyển trang
-        btnlogin.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, LoginActivity.class));
-            }
-        });
-        btnregister.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, Register.class));
-            }
-        });
+        String email = getIntent().getStringExtra("email");
+        TextView tvWelcome = findViewById(R.id.tvWelcome);
+        tvWelcome.setText("Chào mừng quay trở lại, " + email);
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
