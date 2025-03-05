@@ -1,3 +1,7 @@
+// Author info:
+// Name: Truong Ngu Quyen
+// MSSV: 64131995
+
 package tiil.edu.vd_intent2;
 
 import android.content.ContentValues;
