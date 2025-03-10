@@ -51,3 +51,11 @@
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent2/app/src/main/Screenshot_20250305_135554.png">
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent2/app/src/main/Screenshot_20250305_140514.png">
 </div>
+<div>
+<h4>VD5:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/Intent_NextLevel/app/src/main">VD_intent3</a></h4>
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_100312.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101645.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101706.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101735.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101800.png">
+</div>
