@@ -59,3 +59,6 @@
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101735.png">
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101800.png">
 </div>
+<h4>VD6:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/LoginScreen/app/src/main">VD_LoginScreen</a></h4>
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/LoginScreen/app/src/main/Screenshot_20250319_092927.png">
+</div>
