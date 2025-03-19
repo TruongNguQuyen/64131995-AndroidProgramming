@@ -62,3 +62,6 @@
 <h4>VD6:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/LoginScreen/app/src/main">VD_LoginScreen</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/LoginScreen/app/src/main/Screenshot_20250319_092927.png">
 </div>
+<h4>VD7:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/ModernDashboard/app/src/main">VD_ModernDashboard</a></h4>
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/ModernDashboard/app/src/main/Screenshot_20250319_105403.png">
+</div>
