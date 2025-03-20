@@ -5,8 +5,8 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:layout_gravity="center"
-    tools:context=".MainActivity">
+    android:layout_gravity="center_horizontal"
+    tools:context=".ModesActivity">
 
 
     <TextView
@@ -24,50 +24,26 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <ImageView
-        android:id="@+id/imghome"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="12dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv1"
-        app:srcCompat="@drawable/icons8home64" />
-
-    <TextView
-        android:id="@+id/tv2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="145dp"
-        android:layout_marginTop="72dp"
-        android:layout_marginEnd="145dp"
-        android:text="Hello Menu"
-        android:textSize="24sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="1.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv1" />
-
     <TextView
         android:id="@+id/tv3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="80dp"
-        android:layout_marginTop="12dp"
+        android:layout_marginTop="64dp"
         android:layout_marginEnd="81dp"
-        android:text="Select Language"
+        android:text="Modes"
         android:textColor="#E0946D"
         android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv2" />
+        app:layout_constraintTop_toBottomOf="@+id/tv1" />
 
     <LinearLayout
         android:id="@+id/linearlayout1"
         android:layout_width="match_parent"
         android:layout_height="170dp"
-        android:layout_marginTop="31dp"
+        android:layout_marginTop="84dp"
         android:gravity="center"
         android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
@@ -84,14 +60,24 @@
             app:cardElevation="20dp">
 
             <TextView
-                android:id="@+id/tvlanguage1"
+                android:id="@+id/tvCount"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:text="English"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="80dp"
+                android:text="Count"
                 android:textColor="#62B459"
-                android:textSize="36sp"
+                android:textSize="24sp"
                 android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/baseline_123_24" />
+
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
@@ -106,9 +92,20 @@
                 android:id="@+id/tvMatch"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:text="Chinese"
-                android:textSize="36sp" />
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="80dp"
+                android:text="Match"
+                android:textColor="#5AA4A5"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/anh1" />
         </androidx.cardview.widget.CardView>
     </LinearLayout>
 
@@ -137,9 +134,20 @@
                 android:id="@+id/tvPattern"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:text="Japan"
-                android:textSize="36sp" />
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="80dp"
+                android:text="Pattern"
+                android:textColor="#B04D5B"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/anh2" />
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
@@ -154,9 +162,20 @@
                 android:id="@+id/tvSettings"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center"
-                android:text="Korean"
-                android:textSize="36sp" />
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="80dp"
+                android:text="Settings"
+                android:textColor="#F9D87E"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="20dp"
+                app:srcCompat="@drawable/anh3" />
         </androidx.cardview.widget.CardView>
     </LinearLayout>
 
