@@ -66,4 +66,15 @@
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/ModernDashboard/app/src/main/Screenshot_20250319_105403.png">
 </div>
 
+<h2 align="left">BÀI TẬP CỘNG ĐIỂM</h2>
+
+###
+
+<h4>Ex1:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/KidsCorner/app/src/main">KidsCorner</a></h4>
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/KidsCorner/app/src/main/screenshot-2025-03-20_22.51.16.556.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/KidsCorner/app/src/main/screenshot-2025-03-20_22.52.06.998.png">
+</div>
+
 <h2 align="left">SOURCES CODE ÔN TẬP</h2>
+
+###
