@@ -79,7 +79,7 @@
 <div>
 <h4>Ex2:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/MathsAppForKids/app/src/main">MathsAppForKids</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/MathsAppForKids/app/src/main/screenshot-2025-03-21_01.34.03.814.png">
-<img width="200" src="hhttps://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/MathsAppForKids/app/src/main/screenshot-2025-03-21_01.35.47.765.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/MathsAppForKids/app/src/main/screenshot-2025-03-21_01.35.47.765.png">
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/MathsAppForKids/app/src/main/screenshot-2025-03-21_01.35.54.618.png">
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/MathsAppForKids/app/src/main/screenshot-2025-03-21_01.36.01.775.png">
 </div>
