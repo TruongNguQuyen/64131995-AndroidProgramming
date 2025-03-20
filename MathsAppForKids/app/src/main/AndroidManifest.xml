@@ -13,13 +13,16 @@
         android:theme="@style/Theme.MathsAppForKids"
         tools:targetApi="31">
         <activity
+            android:name=".MatchGameActivity"
+            android:exported="true">
+        </activity>
+        <activity
+            android:name=".CountActivity"
+            android:exported="true">
+        </activity>
+        <activity
             android:name=".ModesActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".MainActivity"
