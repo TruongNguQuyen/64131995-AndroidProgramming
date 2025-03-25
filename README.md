@@ -44,6 +44,7 @@
 <h4>VD3:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/VD_ListViewCacQuocGia/app/src/main">VD_ListViewCacQuocGia</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_ListViewCacQuocGia/app/src/main/Screenshot_20250303_231922.png">
 </div>
+
 <div>
 <h4>VD4:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/VD_intent2/app/src/main">VD_intent2</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent2/app/src/main/Screenshot_20250305_135111.png">
@@ -51,6 +52,7 @@
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent2/app/src/main/Screenshot_20250305_135554.png">
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/VD_intent2/app/src/main/Screenshot_20250305_140514.png">
 </div>
+
 <div>
 <h4>VD5:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/Intent_NextLevel/app/src/main">VD_intent3</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_100312.png">
@@ -59,14 +61,20 @@
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101735.png">
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/Intent_NextLevel/app/src/main/Screenshot_20250310_101800.png">
 </div>
+
+<div>
 <h4>VD6:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/LoginScreen/app/src/main">VD_LoginScreen</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/LoginScreen/app/src/main/Screenshot_20250319_092927.png">
 </div>
+
+<div>
 <h4>VD7:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/ModernDashboard/app/src/main">VD_ModernDashboard</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/ModernDashboard/app/src/main/Screenshot_20250319_105403.png">
 </div>
-<h4>VD_RecyclerView:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/ModernDashboard/app/src/main">LandScape</a></h4>
-<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/ModernDashboard/app/src/main/Screenshot_20250319_105403.png">
+
+<div>
+<h4>VD_RecyclerView:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/UsingRecyclerView/app/src/main">LandScape</a></h4>
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/UsingRecyclerView/app/src/main/screenshot-2025-03-25_23.46.40.26.png">
 </div>
 
 <h2 align="left">BÀI TẬP + FIGMA</h2>
