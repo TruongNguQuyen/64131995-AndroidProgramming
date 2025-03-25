@@ -1,28 +1,27 @@
 package tnq.tiil.edu.usingrecyclerview;
 
 public class LandScape {
-    String landImageFileName;
-    String lanCation;
+    String landscapeName;
+    String landscapeImage;
 
-    public String getLandImageFileName() {
-        return landImageFileName;
+    public LandScape(String landscapeName, String landscapeImage) {
+        this.landscapeName = landscapeName;
+        this.landscapeImage = landscapeImage;
     }
 
-    public void setLandImageFileName(String landImageFileName) {
-        this.landImageFileName = landImageFileName;
+    public String getLandscapeName() {
+        return landscapeName;
     }
 
-    public String getLanCation() {
-        return lanCation;
+    public void setLandscapeName(String landscapeName) {
+        this.landscapeName = landscapeName;
     }
 
-    public void setLanCation(String lanCation) {
-        this.lanCation = lanCation;
+    public String getLandscapeImage() {
+        return landscapeImage;
     }
 
-    public LandScape(String landImageFileName, String lanCation) {
-        this.landImageFileName = landImageFileName;
-        this.lanCation = lanCation;
+    public void setLandscapeImage(String landscapeImage) {
+        this.landscapeImage = landscapeImage;
     }
-
 }

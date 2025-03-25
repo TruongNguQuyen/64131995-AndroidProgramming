@@ -8,7 +8,7 @@
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerLand"
+        android:id="@+id/rVLandScape"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginStart="1dp"

@@ -2,12 +2,13 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/textViewCaption"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    tools:context=".LandScapeAdapter"
+    >
 
     <ImageView
-        android:id="@+id/imageViewLand"
+        android:id="@+id/ivLandScape"
         android:layout_width="0dp"
         android:layout_height="200dp"
         android:layout_marginStart="2dp"
@@ -17,9 +18,11 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+        tools:srcCompat="@tools:sample/backgrounds/scenic"
+        />
 
     <TextView
+        android:id="@+id/tvCaption"
         android:layout_width="0dp"
         android:layout_height="46dp"
         android:layout_marginStart="5dp"
@@ -28,5 +31,5 @@
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageViewLand" />
+        app:layout_constraintTop_toBottomOf="@+id/ivLandScape" />
 </androidx.constraintlayout.widget.ConstraintLayout>
