@@ -73,12 +73,12 @@
 </div>
 
 <div>
-<h4>VD_RecyclerView:<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/UsingRecyclerView/app/src/main">LandScape</a></h4>
+<h4>VD_RecyclerView: <a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/UsingRecyclerView/app/src/main">LandScape</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/UsingRecyclerView/app/src/main/screenshot-2025-03-27_08.53.51.398.png">
 </div>
 
 <div>
-<h4>VD_ListView<a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/ListView_DanhSachCacQuocGia_upgrade/app/src/main">listView_CacQuocGia</a></h4>
+<h4>VD_ListView: <a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/ListView_DanhSachCacQuocGia_upgrade/app/src/main">listView_CacQuocGia</a></h4>
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/ListView_DanhSachCacQuocGia_upgrade/app/src/main/screenshot-2025-03-27_12.25.00.271.png">
 </div>
 
