@@ -1,6 +1,7 @@
 package tnq.tiil.edu.listview_danhsachcacquocgia_upgrade;
 
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
@@ -13,6 +14,7 @@ import androidx.core.view.WindowInsetsCompat;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    ArrayList<Country> dsQG;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,18 +22,13 @@ public class MainActivity extends AppCompatActivity {
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_main);
 
-        // Tìm view
-        ListView listView = findViewById(R.id.lvnation);
-        // Thêm các quốc gia vào danh sách
-        ArrayList<String> countryList = new ArrayList<>();
-        countryList.add("Việt Nam");
-        countryList.add("Mỹ");
-        countryList.add("Nga");
+        dsQG = new ArrayList<>();
+        dsQG.add(new Country("Việt Nam", 96000000, "vietnam_100"));
+        dsQG.add(new Country("Russia", 140000000, "russia_100"));
+        dsQG.add(new Country("United States", 80000000, "usa_100"));
 
-        // Gán dữ liệu cho adapter
-        ArrayAdapter adapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, countryList);
-
-        // Đưa dữ liệu vào listview
+        ListView listView = findViewById(R.id.lvCacQuocGia);
+        CountryAdapter adapter = new CountryAdapter(dsQG, this);
         listView.setAdapter(adapter);
 
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
