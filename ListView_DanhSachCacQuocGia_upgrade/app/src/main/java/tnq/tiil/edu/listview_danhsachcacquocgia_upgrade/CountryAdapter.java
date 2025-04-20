@@ -20,12 +20,12 @@ public class CountryAdapter extends BaseAdapter {
     LayoutInflater inflater;
 
     // Constructor
-
     public CountryAdapter(ArrayList<Country> listQG, Context context) {
         this.listQG = listQG;
         this.context = context;
         this.inflater = LayoutInflater.from(context);
     }
+
     // Implement
     @Override
     public int getCount() {
@@ -60,6 +60,7 @@ public class CountryAdapter extends BaseAdapter {
         String tenQG = QuocGiaShow.getTenQG();
         int soDan = QuocGiaShow.getDanSo();
         String laCoQG = QuocGiaShow.getTenFile();
+        String moTa = QuocGiaShow.getMoTa();
         viewItem.textViewNationName.setText(tenQG);
         viewItem.textViewPopulation.setText("Dân số: " + soDan);
 
@@ -73,13 +74,14 @@ public class CountryAdapter extends BaseAdapter {
             intent.putExtra("tenQG", tenQG);
             intent.putExtra("danSo", soDan);
             intent.putExtra("tenFile", laCoQG);
+            intent.putExtra("moTa", moTa); // Truyền thêm thông tin mô tả
             context.startActivity(intent);
         });
 
         return convertView;
     }
 
-    int FindIDImage_NameFile(String file){
+    int FindIDImage_NameFile(String file) {
         String tenPackage = context.getPackageName();
         int id = context.getResources().getIdentifier(file, "mipmap", tenPackage);
         return id;

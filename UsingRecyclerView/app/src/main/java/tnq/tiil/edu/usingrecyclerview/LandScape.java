@@ -3,10 +3,12 @@ package tnq.tiil.edu.usingrecyclerview;
 public class LandScape {
     String landscapeName;
     String landscapeImage;
+    String landscapeDescription; // Thêm thuộc tính mô tả
 
-    public LandScape(String landscapeName, String landscapeImage) {
+    public LandScape(String landscapeName, String landscapeImage, String landscapeDescription) {
         this.landscapeName = landscapeName;
         this.landscapeImage = landscapeImage;
+        this.landscapeDescription = landscapeDescription;
     }
 
     public String getLandscapeName() {
@@ -23,5 +25,13 @@ public class LandScape {
 
     public void setLandscapeImage(String landscapeImage) {
         this.landscapeImage = landscapeImage;
+    }
+
+    public String getLandscapeDescription() {
+        return landscapeDescription;
+    }
+
+    public void setLandscapeDescription(String landscapeDescription) {
+        this.landscapeDescription = landscapeDescription;
     }
 }
