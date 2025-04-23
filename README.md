@@ -82,6 +82,12 @@
 <img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/ListView_DanhSachCacQuocGia_upgrade/app/src/main/screenshot-2025-03-27_12.25.00.271.png">
 </div>
 
+<div>
+<h4>VD_BottomNavigationView: <a href="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/tree/main/BaiThi/app/src/main">NavBottomNavigation</a></h4>
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/BaiThi/app/src/main/screenshot-2025-04-23_11.28.03.464.png">
+<img width="200" src="https://github.com/TruongNguQuyen/64131995-AndroidProgramming/blob/main/BaiThi/app/src/main/screenshot-2025-04-23_11.28.15.875.png">
+</div>
+
 <h2 align="left">BÀI TẬP + FIGMA</h2>
 
 ###
